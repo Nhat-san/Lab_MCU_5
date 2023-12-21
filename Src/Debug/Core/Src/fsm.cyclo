@@ -1,0 +1,4 @@
+../Core/Src/fsm.c:19:6:clear_buffer	1
+../Core/Src/fsm.c:24:6:clear_data	1
+../Core/Src/fsm.c:29:6:command_parser_fsm	6
+../Core/Src/fsm.c:62:6:uart_communiation_fsm	8
